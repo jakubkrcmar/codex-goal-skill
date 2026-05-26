@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Goal"
+  short_description: "Draft durable Codex CLI goal prompts"
+  default_prompt: "Use $codex-goal to turn this task into a ready-to-paste Codex CLI /goal prompt."
